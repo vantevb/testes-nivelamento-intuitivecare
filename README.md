@@ -1,9 +1,5 @@
 # Testes de Nivelamento – IntuitiveCare
 
-Este repositório contém os testes técnicos realizados por Nathally V. B. Machado como parte do processo seletivo da IntuitiveCare.
-
----
-
 ## 📁 Estrutura e Instruções
 
 ### `web_scraping/`
