@@ -1,7 +1,5 @@
 # Testes de Nivelamento – IntuitiveCare
 
-Este repositório contém os testes técnicos realizados por Nathally V. B. Machado como parte do processo seletivo da IntuitiveCare. O projeto está organizado em quatro etapas principais:
-
 ## 📁 Estrutura
 
 - **web_scraping/**: Código Python para baixar os anexos I e II da ANS e compactá-los.
