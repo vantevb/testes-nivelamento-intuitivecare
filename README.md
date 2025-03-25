@@ -1,4 +1,4 @@
-# Testes de Nivelamento – IntuitiveCare
+# Testes de Nivelamento 
 
 ## 📁 Estrutura e Instruções
 
