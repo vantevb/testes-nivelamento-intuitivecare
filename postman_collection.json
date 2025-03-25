@@ -1,0 +1,9 @@
+{
+  "info": {
+    "name": "IntuitiveCare API Test",
+    "_postman_id": "1234-5678",
+    "description": "Coleção de testes para a API construída no processo seletivo.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
